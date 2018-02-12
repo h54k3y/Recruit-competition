@@ -242,3 +242,5 @@ ModelManifest.xml
 .fake/
 /my-first-challenge-of-ensemble-learning/my-first-challenge-of-ensemble-learning.sln
 /my-first-challenge-of-ensemble-learning/my-first-challenge-of-ensemble-learning/my-first-challenge-of-ensemble-learning.pyproj
+/simple-kneighbors/simple-kneighbors/simple-kneighbors.pyproj
+/simple-kneighbors/simple-kneighbors.sln
